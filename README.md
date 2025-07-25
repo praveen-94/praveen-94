@@ -1,6 +1,28 @@
-# 💫 About Me:
-# 👋 Hi, I'm Praveen!<br>Automation enthusiast with 3.5+ years of experience crafting robust infrastructure scripts for cloud and on-prem environments. <br>From PowerShell to Python, I build tools that replace repetition with intelligence.<br><br>## 🔭 Currently Working On<br>🚀 Automating server migrations for Windows/Linux/DB systems  <br>🔧 Crafting PowerShell/Bash scripts for VM provisioning, SQL upgrades, and infra validation  <br>🧪 Enhancing system administration workflows for global projects <br><br>## 👯 Looking to Collaborate On<br>🤖 Scripting-heavy automation projects  <br>🛠️ Python-based CLI tools  <br>🌩️ Cloud infra optimization and Azure ML integrations  <br><br>---<br><br>## 🌱 Currently Learning<br>🧠 Python, AI/ML <br>☁️ Azure ML pipelines, model deployment, and monitoring  <br>🧬 Generative AI & prompt engineering essentials  <br><br>## 💬 Ask Me About<br>🛠 PowerShell, Bash, or Python scripting<br>🧠 AI, ML, Deep Learning<br>📦 Automation best practices for migrations and rollouts  <br>☁️ Azure fundamentals, VM management, and SCCM tooling  <br>📊 Excel workbook generation from CSV datasets  <br><br>
+👋 Hi, I'm Praveen!
+Automation enthusiast with 3.5+ years of experience crafting robust infrastructure scripts for cloud and on-prem environments. 
+Currently focused on automating VMware infrastructure using PowerShell and PowerCLI.
+Now transitioning toward Python-based automation, AI/ML, and Azure ML solutions to scale smarter workflows.
 
+💼 What I Do
+Automate server and DB migrations (Windows/Linux/SQL)
+Build CLI tools with Python and PowerShell
+Streamline VMware tasks via PowerCLI modules
+
+🔁 Transitioning Into
+AI/ML development with Python
+Azure ML: pipelines, deployment, monitoring
+Generative AI, LLM prompt engineering
+
+🤝 Open to Roles In
+Python development / automation
+Cloud ML engineering (Azure preferred)
+AI platform tooling and infrastructure
+
+💬 Let’s Talk About
+PowerShell, PowerCLI, Bash, and Python scripting
+Workflow automation and rollout strategies
+Azure VM, pipelines, and ML lifecycle
+Clean data-to-dashboard pipelines (CSV → Excel, etc.)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenahirwar94@gmail.com) 
