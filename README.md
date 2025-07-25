@@ -1,22 +1,22 @@
 👋 Hi, I'm Praveen!<br>
 Automation enthusiast with 3.5+ years of experience crafting robust infrastructure scripts for cloud and on-prem environments. <br>
 Currently focused on automating VMware infrastructure using PowerShell and PowerCLI.<br>
-Now transitioning toward Python-based automation, AI/ML, and Azure ML solutions to scale smarter workflows.<br><br>
+Now transitioning toward Python-based automation, AI/ML, and Azure ML solutions to scale smarter workflows.<br>
 
 💼 What I Do<br>
 Automate server and DB migrations (Windows/Linux/SQL).<br>
 Build CLI tools with Python and PowerShell.<br>
-Streamline VMware tasks via PowerCLI modules.<br><br>
+Streamline VMware tasks via PowerCLI modules.<br>
 
 🔁 Transitioning Into<br>
 AI/ML development with Python.<br>
 Azure ML: pipelines, deployment, monitoring.<br>
-Generative AI, LLM prompt engineering.<br><br>
+Generative AI, LLM prompt engineering.<br>
 
 🤝 Open to Roles In<br>
 Python development/automation<br>
 Cloud ML engineering (Azure preferred)<br>
-AI platform tooling and infrastructure<br><br>
+AI platform tooling and infrastructure<br>
 
 💬 Let’s Talk About<br>
 Workflow automation and rollout strategies, PowerShell, PowerCLI, Bash, and Python scripting, Azure VM, pipelines, and ML lifecycle<br>
