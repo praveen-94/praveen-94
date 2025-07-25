@@ -1,28 +1,25 @@
-👋 Hi, I'm Praveen!
-Automation enthusiast with 3.5+ years of experience crafting robust infrastructure scripts for cloud and on-prem environments. 
-Currently focused on automating VMware infrastructure using PowerShell and PowerCLI.
-Now transitioning toward Python-based automation, AI/ML, and Azure ML solutions to scale smarter workflows.
+👋 Hi, I'm Praveen!<br>
+Automation enthusiast with 3.5+ years of experience crafting robust infrastructure scripts for cloud and on-prem environments. <br>
+Currently focused on automating VMware infrastructure using PowerShell and PowerCLI.<br>
+Now transitioning toward Python-based automation, AI/ML, and Azure ML solutions to scale smarter workflows.<br><br>
 
-💼 What I Do
-Automate server and DB migrations (Windows/Linux/SQL)
-Build CLI tools with Python and PowerShell
-Streamline VMware tasks via PowerCLI modules
+💼 What I Do<br>
+Automate server and DB migrations (Windows/Linux/SQL).<br>
+Build CLI tools with Python and PowerShell.<br>
+Streamline VMware tasks via PowerCLI modules.<br><br>
 
-🔁 Transitioning Into
-AI/ML development with Python
-Azure ML: pipelines, deployment, monitoring
-Generative AI, LLM prompt engineering
+🔁 Transitioning Into<br>
+AI/ML development with Python.<br>
+Azure ML: pipelines, deployment, monitoring.<br>
+Generative AI, LLM prompt engineering.<br><br>
 
-🤝 Open to Roles In
-Python development / automation
-Cloud ML engineering (Azure preferred)
-AI platform tooling and infrastructure
+🤝 Open to Roles In<br>
+Python development/automation<br>
+Cloud ML engineering (Azure preferred)<br>
+AI platform tooling and infrastructure<br><br>
 
-💬 Let’s Talk About
-PowerShell, PowerCLI, Bash, and Python scripting
-Workflow automation and rollout strategies
-Azure VM, pipelines, and ML lifecycle
-Clean data-to-dashboard pipelines (CSV → Excel, etc.)
+💬 Let’s Talk About<br>
+Workflow automation and rollout strategies, PowerShell, PowerCLI, Bash, and Python scripting, Azure VM, pipelines, and ML lifecycle<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenahirwar94@gmail.com) 
